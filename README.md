@@ -313,7 +313,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Email: santprac@gmail.com
 - GitHub: [@santprac](https://github.com/santprac)
-- LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/santosh-kumar)
+- LinkedIn: [linkedin.com/in/santosh-kumar-rvce](https://www.linkedin.com/in/santosh-kumar-rvce)
 
 ---
 
